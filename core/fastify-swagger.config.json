@@ -1,0 +1,19 @@
+{
+  "openapi": {
+    "info": {
+      "title": "API Documentation",
+      "description": "Self generating documentation for view",
+      "version": "1.0.0"
+    },
+
+    "components": {
+      "securitySchemes": {
+        "SessionAuth": {
+          "type": "apiKey",
+          "name": "session",
+          "in": "header"
+        }
+      }
+    }
+  }
+}

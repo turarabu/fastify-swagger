@@ -1,0 +1,10 @@
+{
+  "routePrefix": "/",
+  "uiConfig": {
+    "docExpansion": "list",
+    "deepLinking": true
+  },
+
+  "staticCSP": true,
+  "transformSpecificationClone": true
+}
